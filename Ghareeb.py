@@ -1,1 +1,2 @@
-import Ghareeb
+import os
+os.system('git pull')
